@@ -19,15 +19,14 @@ Move forward with forward cursor key or W
 Clear the stage when all enemies are destroyed.
 Your fighter plane will not take damage if it collides with an enemy, but will take damage if its altitude drops below 0m.
 
-*
 On the title screen, you can select from cleared laps and stages.
 Laps and stages that will be continued are written in red.
 If you select a lap or stage other than one that you want to continue, your score will be reset to 0 and your remaining lives will be reset to 3.
 
-*PC(Windows/Mac/Linux)
+●PC(Windows/Mac/Linux)
 To quit game, Push 'z' key.
 
-*Differences from the Google Play version.
+●Differences from the Google Play version.
 https://play.google.com/store/apps/details?id=com.mycompany.jetshooter
 ・(Only Web version) Up to 10 stages included (The others have 24 stages)
 ・No high score ranking
@@ -39,9 +38,9 @@ In the year 202X AD, a lone professional fighter pilot was fighting to defeat a 
 People call him "Jet Shooter".
 He continues to use a high-performance fighter plane to engage in battles that governments around the world cannot openly engage in...
 
-*my twitter
+●my twitter
  https://twitter.com/namcreationsWld
 
-*Music: Maoudamashii 
+●Music: Maoudamashii 
 
 Copyright 2022ｰNam Creations
